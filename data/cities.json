@@ -35,6 +35,810 @@
         "lat": "10.201406794334043",
         "lng": "106.55639648437501"
       }
+    },
+    {
+      "id": "651a",
+      "cityName": "Kocasinan",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:08:52.605Z",
+      "notes": "",
+      "position": {
+        "lat": "38.82259097617713",
+        "lng": "35.22216796875001"
+      }
+    },
+    {
+      "id": "a0b4",
+      "cityName": "Yahsihan",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:08:55.820Z",
+      "notes": "",
+      "position": {
+        "lat": "39.87601941962116",
+        "lng": "33.35449218750001"
+      }
+    },
+    {
+      "id": "9fa2",
+      "cityName": "Brezovo",
+      "country": "Bulgaria",
+      "emoji": "🇧🇬",
+      "date": "2024-01-23T17:08:59.458Z",
+      "notes": "",
+      "position": {
+        "lat": "42.407234661551875",
+        "lng": "25.048828125000004"
+      }
+    },
+    {
+      "id": "f221",
+      "cityName": "Avrig",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2024-01-23T17:09:01.518Z",
+      "notes": "",
+      "position": {
+        "lat": "45.79816953017265",
+        "lng": "24.455566406250004"
+      }
+    },
+    {
+      "id": "19b7",
+      "cityName": "Kunszentmiklos",
+      "country": "Hungary",
+      "emoji": "🇭🇺",
+      "date": "2024-01-23T17:09:03.624Z",
+      "notes": "",
+      "position": {
+        "lat": "47.025206001585396",
+        "lng": "19.116210937500004"
+      }
+    },
+    {
+      "id": "cf17",
+      "cityName": "Krasna Hora",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2024-01-23T17:09:05.461Z",
+      "notes": "",
+      "position": {
+        "lat": "49.5822260446217",
+        "lng": "15.468750000000002"
+      }
+    },
+    {
+      "id": "4e10",
+      "cityName": "Herleshausen",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-01-23T17:09:06.986Z",
+      "notes": "",
+      "position": {
+        "lat": "51.04139389812637",
+        "lng": "10.063476562500002"
+      }
+    },
+    {
+      "id": "d0f4",
+      "cityName": "Schonefeld",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-01-23T17:09:47.689Z",
+      "notes": "",
+      "position": {
+        "lat": "52.33533907188941",
+        "lng": "13.513183593750002"
+      }
+    },
+    {
+      "id": "2989",
+      "cityName": "Ankara",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:12:58.168Z",
+      "notes": "",
+      "position": {
+        "lat": "39.6733703917656",
+        "lng": "33.13476562500001"
+      }
+    },
+    {
+      "id": "2b57",
+      "cityName": "Urgup",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:13:08.360Z",
+      "notes": "",
+      "position": {
+        "lat": "38.634036452919226",
+        "lng": "35.04638671875001"
+      }
+    },
+    {
+      "id": "4471",
+      "cityName": "Avanos",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:14:52.396Z",
+      "notes": "",
+      "position": {
+        "lat": "38.839707613545144",
+        "lng": "34.87060546875001"
+      }
+    },
+    {
+      "id": "d89c",
+      "cityName": "Kirikkale",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:14:55.801Z",
+      "notes": "",
+      "position": {
+        "lat": "39.7240885773337",
+        "lng": "33.39843750000001"
+      }
+    },
+    {
+      "id": "0040",
+      "cityName": "Eskil",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:14:57.824Z",
+      "notes": "",
+      "position": {
+        "lat": "38.59970036588819",
+        "lng": "33.35449218750001"
+      }
+    },
+    {
+      "id": "4907",
+      "cityName": "Avanos",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:15:53.987Z",
+      "notes": "",
+      "position": {
+        "lat": "38.89103282648846",
+        "lng": "34.91455078125001"
+      }
+    },
+    {
+      "id": "702c",
+      "cityName": "Ankara",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:15:55.544Z",
+      "notes": "",
+      "position": {
+        "lat": "39.977120098439634",
+        "lng": "33.11279296875001"
+      }
+    },
+    {
+      "id": "f67e",
+      "cityName": "Gulsehir",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:16:36.941Z",
+      "notes": "",
+      "position": {
+        "lat": "38.75408327579141",
+        "lng": "34.54101562500001"
+      }
+    },
+    {
+      "id": "99f0",
+      "cityName": "Ankara",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:16:39.373Z",
+      "notes": "",
+      "position": {
+        "lat": "39.6733703917656",
+        "lng": "33.00292968750001"
+      }
+    },
+    {
+      "id": "2c72",
+      "cityName": "Gulsehir",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:18:27.631Z",
+      "notes": "",
+      "position": {
+        "lat": "38.805470223177466",
+        "lng": "34.69482421875001"
+      }
+    },
+    {
+      "id": "24e4",
+      "cityName": "Ankara",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:18:29.340Z",
+      "notes": "",
+      "position": {
+        "lat": "39.7240885773337",
+        "lng": "32.78320312500001"
+      }
+    },
+    {
+      "id": "4c01",
+      "cityName": "Gulsehir",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:21:54.170Z",
+      "notes": "",
+      "position": {
+        "lat": "38.71980474264239",
+        "lng": "34.65087890625001"
+      }
+    },
+    {
+      "id": "2d18",
+      "cityName": "Kulu",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:21:55.935Z",
+      "notes": "",
+      "position": {
+        "lat": "38.87392853923632",
+        "lng": "33.26660156250001"
+      }
+    },
+    {
+      "id": "db0f",
+      "cityName": "Kocasinan",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:23:19.431Z",
+      "notes": "",
+      "position": {
+        "lat": "38.82259097617713",
+        "lng": "34.98046875000001"
+      }
+    },
+    {
+      "id": "d856",
+      "cityName": "Ankara",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:23:22.652Z",
+      "notes": "",
+      "position": {
+        "lat": "39.62261494094297",
+        "lng": "33.06884765625001"
+      }
+    },
+    {
+      "id": "0e64",
+      "cityName": "Ankara",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:24:03.046Z",
+      "notes": "",
+      "position": {
+        "lat": "39.690280594818034",
+        "lng": "33.15673828125001"
+      }
+    },
+    {
+      "id": "28f3",
+      "cityName": "Kocasinan",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:24:07.076Z",
+      "notes": "",
+      "position": {
+        "lat": "38.87392853923632",
+        "lng": "35.13427734375001"
+      }
+    },
+    {
+      "id": "7317",
+      "cityName": "Melikgazi",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:29:26.004Z",
+      "notes": "",
+      "position": {
+        "lat": "38.71980474264239",
+        "lng": "35.61767578125001"
+      }
+    },
+    {
+      "id": "9992",
+      "cityName": "Al Jawf",
+      "country": "Libya",
+      "emoji": "🇱🇾",
+      "date": "2024-01-23T17:30:13.537Z",
+      "notes": "",
+      "position": {
+        "lat": "25.799891182088334",
+        "lng": "20.917968750000004"
+      }
+    },
+    {
+      "id": "c090",
+      "cityName": "Reggane",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-01-23T17:30:16.382Z",
+      "notes": "",
+      "position": {
+        "lat": "26.27371402440643",
+        "lng": "-2.2851562500000004"
+      }
+    },
+    {
+      "id": "d920",
+      "cityName": "Kocasinan",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:32:07.433Z",
+      "notes": "",
+      "position": {
+        "lat": "38.75408327579141",
+        "lng": "35.48583984375001"
+      }
+    },
+    {
+      "id": "f655",
+      "cityName": "Ankara",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:32:09.510Z",
+      "notes": "",
+      "position": {
+        "lat": "39.87601941962116",
+        "lng": "32.43164062500001"
+      }
+    },
+    {
+      "id": "affa",
+      "cityName": "Tvarditsa",
+      "country": "Bulgaria",
+      "emoji": "🇧🇬",
+      "date": "2024-01-23T17:32:12.779Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "26.015625"
+      }
+    },
+    {
+      "id": "9893",
+      "cityName": "Karlovac",
+      "country": "Croatia",
+      "emoji": "🇭🇷",
+      "date": "2024-01-23T17:32:15.571Z",
+      "notes": "",
+      "position": {
+        "lat": "45.39844997630411",
+        "lng": "15.732421875000002"
+      }
+    },
+    {
+      "id": "2dbe",
+      "cityName": "Bovegno",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-01-23T17:32:17.816Z",
+      "notes": "",
+      "position": {
+        "lat": "45.84410779560204",
+        "lng": "10.305175781250002"
+      }
+    },
+    {
+      "id": "6713",
+      "cityName": "Chernigovskaya",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-01-23T17:34:13.975Z",
+      "notes": "",
+      "position": {
+        "lat": "44.68427737181225",
+        "lng": "39.66064453125001"
+      }
+    },
+    {
+      "id": "551c",
+      "cityName": "Och’amch’ire",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2024-01-23T17:34:28.089Z",
+      "notes": "",
+      "position": {
+        "lat": "43.068887774169625",
+        "lng": "41.83593750000001"
+      }
+    },
+    {
+      "id": "bcf0",
+      "cityName": "Anabad",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2024-01-23T17:34:34.561Z",
+      "notes": "",
+      "position": {
+        "lat": "35.24561909420681",
+        "lng": "57.12890625000001"
+      }
+    },
+    {
+      "id": "705a",
+      "cityName": "Hani",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:34:53.201Z",
+      "notes": "",
+      "position": {
+        "lat": "38.44498466889473",
+        "lng": "40.45166015625"
+      }
+    },
+    {
+      "id": "0543",
+      "cityName": "Wittenheim",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-01-23T17:35:56.737Z",
+      "notes": "",
+      "position": {
+        "lat": "47.81315451752768",
+        "lng": "7.316894531250001"
+      }
+    },
+    {
+      "id": "447f",
+      "cityName": "Bogazliyan",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:40:56.198Z",
+      "notes": "",
+      "position": {
+        "lat": "39.33429742980725",
+        "lng": "35.46386718750001"
+      }
+    },
+    {
+      "id": "3e60",
+      "cityName": "Divrigi",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:45:43.357Z",
+      "notes": "",
+      "position": {
+        "lat": "39.30029918615029",
+        "lng": "38.10058593750001"
+      }
+    },
+    {
+      "id": "3ca4",
+      "cityName": "Kocasinan",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:46:18.680Z",
+      "notes": "",
+      "position": {
+        "lat": "38.94232097947902",
+        "lng": "35.52978515625001"
+      }
+    },
+    {
+      "id": "beda",
+      "cityName": "Akdagmadeni",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:46:55.305Z",
+      "notes": "",
+      "position": {
+        "lat": "39.8928799002948",
+        "lng": "35.70556640625001"
+      }
+    },
+    {
+      "id": "31fc",
+      "cityName": "Kangal",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:54:36.474Z",
+      "notes": "",
+      "position": {
+        "lat": "39.04478604850143",
+        "lng": "37.15576171875001"
+      }
+    },
+    {
+      "id": "12b4",
+      "cityName": "Sarioglan",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T17:55:09.283Z",
+      "notes": "",
+      "position": {
+        "lat": "39.07890809706475",
+        "lng": "36.18896484375001"
+      }
+    },
+    {
+      "id": "d831",
+      "cityName": "Cavdarhisar",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T18:00:11.672Z",
+      "notes": "",
+      "position": {
+        "lat": "39.33429742980725",
+        "lng": "29.663085937500004"
+      }
+    },
+    {
+      "id": "fbbe",
+      "cityName": "Gurkovo",
+      "country": "Bulgaria",
+      "emoji": "🇧🇬",
+      "date": "2024-01-23T18:00:15.607Z",
+      "notes": "",
+      "position": {
+        "lat": "42.71473218539458",
+        "lng": "25.773925781250004"
+      }
+    },
+    {
+      "id": "d9a9",
+      "cityName": "Gogosu",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2024-01-23T18:00:16.859Z",
+      "notes": "",
+      "position": {
+        "lat": "44.402391829093915",
+        "lng": "22.609863281250004"
+      }
+    },
+    {
+      "id": "c369",
+      "cityName": "Zuzemberk",
+      "country": "Slovenia",
+      "emoji": "🇸🇮",
+      "date": "2024-01-23T18:00:19.400Z",
+      "notes": "",
+      "position": {
+        "lat": "45.78284835197676",
+        "lng": "15.029296875000002"
+      }
+    },
+    {
+      "id": "a750",
+      "cityName": "Ettaler Forst",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-01-23T18:00:20.391Z",
+      "notes": "",
+      "position": {
+        "lat": "47.57652571374621",
+        "lng": "10.9423828125"
+      }
+    },
+    {
+      "id": "6488",
+      "cityName": "Hallau",
+      "country": "Switzerland",
+      "emoji": "🇨🇭",
+      "date": "2024-01-23T18:00:21.486Z",
+      "notes": "",
+      "position": {
+        "lat": "47.69497434186282",
+        "lng": "8.415527343750002"
+      }
+    },
+    {
+      "id": "ba64",
+      "cityName": "Pavlikov",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2024-01-23T18:01:25.578Z",
+      "notes": "",
+      "position": {
+        "lat": "50.064191736659104",
+        "lng": "13.77685546875"
+      }
+    },
+    {
+      "id": "a659",
+      "cityName": "Ebergotzen",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-01-23T18:01:27.193Z",
+      "notes": "",
+      "position": {
+        "lat": "51.56341232867588",
+        "lng": "10.107421875000002"
+      }
+    },
+    {
+      "id": "584c",
+      "cityName": "Beckdorf",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-01-23T18:01:28.914Z",
+      "notes": "",
+      "position": {
+        "lat": "53.42262754609996",
+        "lng": "9.645996093750002"
+      }
+    },
+    {
+      "id": "9dba",
+      "cityName": "Herning",
+      "country": "Denmark",
+      "emoji": "🇩🇰",
+      "date": "2024-01-23T18:01:30.412Z",
+      "notes": "",
+      "position": {
+        "lat": "56.03522578369872",
+        "lng": "9.118652343750002"
+      }
+    },
+    {
+      "id": "cba1",
+      "cityName": "Nissedal",
+      "country": "Norway",
+      "emoji": "🇳🇴",
+      "date": "2024-01-23T18:02:01.805Z",
+      "notes": "",
+      "position": {
+        "lat": "58.91599192355906",
+        "lng": "8.701171875000002"
+      }
+    },
+    {
+      "id": "158d",
+      "cityName": "Gjovik",
+      "country": "Norway",
+      "emoji": "🇳🇴",
+      "date": "2024-01-23T18:02:05.126Z",
+      "notes": "",
+      "position": {
+        "lat": "60.75915950226991",
+        "lng": "10.700683593750002"
+      }
+    },
+    {
+      "id": "1417",
+      "cityName": "Are",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2024-01-23T18:02:07.545Z",
+      "notes": "",
+      "position": {
+        "lat": "63.24352118311121",
+        "lng": "14.062500000000002"
+      }
+    },
+    {
+      "id": "671c",
+      "cityName": "Lycksele",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2024-01-23T18:02:09.908Z",
+      "notes": "",
+      "position": {
+        "lat": "64.41592147626879",
+        "lng": "18.149414062500004"
+      }
+    },
+    {
+      "id": "61f3",
+      "cityName": "Grane",
+      "country": "Norway",
+      "emoji": "🇳🇴",
+      "date": "2024-01-23T18:02:39.475Z",
+      "notes": "",
+      "position": {
+        "lat": "65.38514722188857",
+        "lng": "13.359375000000002"
+      }
+    },
+    {
+      "id": "aee7",
+      "cityName": "Kiruna",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2024-01-23T18:02:41.450Z",
+      "notes": "",
+      "position": {
+        "lat": "67.88381521322093",
+        "lng": "18.720703125000004"
+      }
+    },
+    {
+      "id": "fc2a",
+      "cityName": "Pajala",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2024-01-23T18:02:43.406Z",
+      "notes": "",
+      "position": {
+        "lat": "68.00757101804007",
+        "lng": "23.13720703125"
+      }
+    },
+    {
+      "id": "5315",
+      "cityName": "Malselv",
+      "country": "Norway",
+      "emoji": "🇳🇴",
+      "date": "2024-01-23T18:08:05.121Z",
+      "notes": "",
+      "position": {
+        "lat": "68.83180177092166",
+        "lng": "19.599609375000004"
+      }
+    },
+    {
+      "id": "83e2",
+      "cityName": "Sorgun",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T18:11:45.413Z",
+      "notes": "",
+      "position": {
+        "lat": "39.9602803542957",
+        "lng": "35.15625000000001"
+      }
+    },
+    {
+      "id": "ac81",
+      "cityName": "Sochi",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-01-23T18:11:47.020Z",
+      "notes": "",
+      "position": {
+        "lat": "43.91372326852401",
+        "lng": "39.66064453125001"
+      }
+    },
+    {
+      "id": "de79",
+      "cityName": "Aksehir",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T18:13:36.062Z",
+      "notes": "",
+      "position": {
+        "lat": "38.34165619279595",
+        "lng": "31.640625000000004"
+      }
+    },
+    {
+      "id": "b6b2",
+      "cityName": "Almus",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T18:14:29.254Z",
+      "notes": "",
+      "position": {
+        "lat": "40.17887331434698",
+        "lng": "37.44140625000001"
+      }
+    },
+    {
+      "id": "1166",
+      "cityName": "Karacoban",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-01-23T18:14:41.328Z",
+      "notes": "",
+      "position": {
+        "lat": "39.402244340292775",
+        "lng": "41.96777343750001"
+      }
     }
   ]
 }

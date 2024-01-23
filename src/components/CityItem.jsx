@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import styles from "./CityItem.module.css";
 import { useCities } from "../contexts/CitiesContext";
+import { useEffect, useRef } from "react";
 
 const formatDate = (date) =>
   new Intl.DateTimeFormat("en", {
@@ -12,12 +13,27 @@ const formatDate = (date) =>
 export default function CityItem({ city }) {
   const { currentCity, deleteCity } = useCities();
   const { cityName, emoji, date, id, position } = city;
+  const ref = useRef();
+
+  useEffect(
+    function () {
+      if (currentCity.id === id) {
+        ref.current.scrollIntoView({
+          behavior: "smooth",
+          block: "start",
+        });
+      }
+    },
+    [id, currentCity]
+  );
+
   function handleClick(e) {
     e.preventDefault();
     deleteCity(id);
   }
+
   return (
-    <li>
+    <li ref={ref}>
       <Link
         className={`${styles.cityItem} ${
           id === currentCity.id && styles["cityItem--active"]

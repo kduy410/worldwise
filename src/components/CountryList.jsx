@@ -12,9 +12,8 @@ export default function CountryList() {
     );
 
   const countries = cities.reduce((arr, city) => {
-    const country = { country: city.country, emoji: city.emoji };
-    if (!arr.includes(country)) {
-      arr.push(country);
+    if (!arr.find((item) => item.country === city.country)) {
+      arr.push({ country: city.country, emoji: city.emoji });
     }
     return arr;
   }, []);
