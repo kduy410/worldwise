@@ -13,18 +13,6 @@
       "id": "73930385"
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -37,195 +25,15 @@
       "id": "98443197"
     },
     {
-      "id": "1678",
-      "cityName": "Villalba del Alcor",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-01-22T16:51:57.647Z",
-      "notes": "",
-      "position": {
-        "lat": "37.38761749978395",
-        "lng": "-6.481933593750001"
-      }
-    },
-    {
-      "id": "abf5",
-      "cityName": "Lake Sevan",
-      "country": "Armenia",
-      "emoji": "🇦🇲",
-      "date": "2024-01-22T16:52:22.714Z",
-      "notes": "",
-      "position": {
-        "lat": "40.49709237269567",
-        "lng": "45.10986328125001"
-      }
-    },
-    {
-      "id": "ffc1",
-      "cityName": "Chkhorots’q’u",
-      "country": "Georgia",
-      "emoji": "🇬🇪",
-      "date": "2024-01-22T16:55:30.468Z",
-      "notes": "",
-      "position": {
-        "lat": "42.52069952914966",
-        "lng": "42.14355468750001"
-      }
-    },
-    {
-      "id": "fd6e",
-      "cityName": "Gaviao",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2024-01-22T16:57:39.938Z",
-      "notes": "",
-      "position": {
-        "lat": "39.45316112807394",
-        "lng": "-7.954101562500001"
-      }
-    },
-    {
-      "id": "72f3",
-      "cityName": "Ankara",
-      "country": "Turkiye",
-      "emoji": "🇹🇷",
-      "date": "2024-01-22T16:59:27.836Z",
-      "notes": "",
-      "position": {
-        "lat": "39.99395569397331",
-        "lng": "33.39843750000001"
-      }
-    },
-    {
-      "id": "8af0",
-      "cityName": "Ankara",
-      "country": "Turkiye",
-      "emoji": "🇹🇷",
-      "date": "2024-01-22T16:59:37.334Z",
-      "notes": "",
-      "position": {
-        "lat": "39.99395569397331",
-        "lng": "32.98095703125001"
-      }
-    },
-    {
-      "id": "2ee5",
-      "cityName": "Ho Chi Minh City",
+      "id": "aa3c",
+      "cityName": "Binh Đai",
       "country": "Viet Nam",
       "emoji": "🇻🇳",
-      "date": "2024-01-22T17:00:19.368Z",
+      "date": "2024-01-23T16:40:32.009Z",
       "notes": "",
       "position": {
-        "lat": "10.752366085618164",
-        "lng": "106.78985595703126"
-      }
-    },
-    {
-      "id": "b50b",
-      "cityName": "Muang Pek",
-      "country": "Lao People's Democratic Republic (the)",
-      "emoji": "🇱🇦",
-      "date": "2024-01-22T17:04:22.039Z",
-      "notes": "",
-      "position": {
-        "lat": "19.394067895396613",
-        "lng": "103.09570312500001"
-      }
-    },
-    {
-      "id": "77c7",
-      "cityName": "Liuzhou",
-      "country": "China",
-      "emoji": "🇨🇳",
-      "date": "2024-01-22T17:04:22.039Z",
-      "notes": "",
-      "position": {
-        "lat": "25.284437746983055",
-        "lng": "108.89648437500001"
-      }
-    },
-    {
-      "id": "3b01",
-      "cityName": "Tianshui",
-      "country": "China",
-      "emoji": "🇨🇳",
-      "date": "2024-01-22T17:04:22.039Z",
-      "notes": "",
-      "position": {
-        "lat": "34.63320791137959",
-        "lng": "105.29296875"
-      }
-    },
-    {
-      "id": "1137",
-      "cityName": "Mandalt",
-      "country": "China",
-      "emoji": "🇨🇳",
-      "date": "2024-01-22T17:04:22.039Z",
-      "notes": "",
-      "position": {
-        "lat": "43.100982876188546",
-        "lng": "114.21386718750001"
-      }
-    },
-    {
-      "id": "21ea",
-      "cityName": "Jargalthaan",
-      "country": "Mongolia",
-      "emoji": "🇲🇳",
-      "date": "2024-01-22T17:04:22.039Z",
-      "notes": "",
-      "position": {
-        "lat": "47.48751300895658",
-        "lng": "109.5556640625"
-      }
-    },
-    {
-      "id": "ec55",
-      "cityName": "Delgerhaan",
-      "country": "Mongolia",
-      "emoji": "🇲🇳",
-      "date": "2024-01-22T17:09:15.638Z",
-      "notes": "",
-      "position": {
-        "lat": "46.437856895024204",
-        "lng": "104.7216796875"
-      }
-    },
-    {
-      "id": "f3d0",
-      "cityName": "Incesu",
-      "country": "Turkiye",
-      "emoji": "🇹🇷",
-      "date": "2024-01-22T17:09:41.329Z",
-      "notes": "",
-      "position": {
-        "lat": "38.77121637244273",
-        "lng": "35.17822265625001"
-      }
-    },
-    {
-      "id": "72cc",
-      "cityName": "Piedrabuena",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-01-22T17:10:41.713Z",
-      "notes": "",
-      "position": {
-        "lat": "39.06184913429154",
-        "lng": "-4.416503906250001"
-      }
-    },
-    {
-      "id": "5eee",
-      "cityName": "Toses",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-01-22T17:12:48.637Z",
-      "notes": "",
-      "position": {
-        "lat": "42.309815415686664",
-        "lng": "2.0654296875000004"
+        "lat": "10.201406794334043",
+        "lng": "106.55639648437501"
       }
     }
   ]
