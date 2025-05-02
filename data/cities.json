@@ -839,6 +839,30 @@
         "lat": "39.402244340292775",
         "lng": "41.96777343750001"
       }
+    },
+    {
+      "id": "bfd1",
+      "cityName": "Sangkhoar",
+      "country": "Cambodia",
+      "emoji": "🇰🇭",
+      "date": "2025-05-02T09:06:36.226Z",
+      "notes": "",
+      "position": {
+        "lat": "11.092165893502013",
+        "lng": "105.84228515625001"
+      }
+    },
+    {
+      "id": "fa29",
+      "cityName": "Chuen Chom",
+      "country": "Thailand",
+      "emoji": "🇹🇭",
+      "date": "2025-05-02T09:06:42.514Z",
+      "notes": "",
+      "position": {
+        "lat": "16.46769474828897",
+        "lng": "103.16162109375001"
+      }
     }
   ]
 }

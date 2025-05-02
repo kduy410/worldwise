@@ -1,7 +1,7 @@
 import { createContext, useContext, useEffect, useReducer } from "react";
 
 const CitiesContext = createContext();
-const BASE_URL = "http://localhost:8000";
+const BASE_URL = "https://worldwise-server-green.vercel.app";
 
 const initState = {
   cities: [],
