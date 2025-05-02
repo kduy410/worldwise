@@ -14,6 +14,12 @@ function reducer(state, action) {
   switch (action.type) {
     case "loading":
       return { ...state, isLoading: true };
+    case "cities/loadedList":
+      return {
+        ...state,
+        isLoading: false,
+        cities: [...action.payload],
+      };
     case "cities/loaded":
       return { ...state, isLoading: false, currentCity: action.payload };
     case "cities/created":
@@ -49,7 +55,7 @@ function CitiesProvider({ children }) {
       try {
         const res = await fetch(`${BASE_URL}/cities`);
         const data = await res.json();
-        dispatch({ type: "cities/loaded", payload: data });
+        dispatch({ type: "cities/loadedList", payload: data });
       } catch {
         dispatch({
           type: "rejected",
